@@ -1,6 +1,6 @@
 # qt-bitcoin-trader-scripts
 
-
+кт4
 
 QT Bitcoin trader scripts (README IS NOT UPDATED!)
 
